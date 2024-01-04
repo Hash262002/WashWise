@@ -4,7 +4,7 @@
     "slug": "WashWise",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/First_project.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
